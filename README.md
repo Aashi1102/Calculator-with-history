@@ -17,10 +17,10 @@ It supports basic arithmetic operations and maintains a calculation history that
 ✅ Simple, beginner-friendly, and open source
 
 **🗂️ Project Structure**
+   
+    Calculator.py                                # Main program file
 
-├── Calculator.py      # Main program file
-
-└── history.txt        # Stores calculation history
+    history.txt                                  # Stores calculation history
 
 **⚙️ Installation & Usage**
 
@@ -30,7 +30,7 @@ git clone https://github.com/Aashi1102/Calculator-with-history.git
 
 2️⃣ Navigate to the folder
 
-cd<Calculator-with-history->
+cd Calculator-with-history
 
 3️⃣ Run the calculator
 

@@ -30,7 +30,7 @@ git clone https://github.com/Aashi1102/Calculator-with-history.git
 
 2️⃣ Navigate to the folder
 
-cd <Calculator-with-history->
+cd<Calculator-with-history->
 
 3️⃣ Run the calculator
 
